@@ -2,7 +2,7 @@ Imports System.Net
 Imports System.Net.NetworkInformation
 Imports System.Net.Sockets
 Imports System.Text
-TryCast(https://chat.deepseek.com/)
+
 Module InternetConnection
     
     Sub Function TestInternetConnection(Optional method As Integer = 4, 
