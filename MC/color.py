@@ -124,7 +124,7 @@ def white():
     [[0][0][0][1],
      [1][0][0][0],
      [0][1][0][0],
-     [0][0][1][0]]
+     [1][0][1][0]]
 
 print(element13,element14,element15,element16,element17,element18,element19,element20)
 class Red(CH4):
